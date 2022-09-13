@@ -1,0 +1,32 @@
+*{
+    background-color: floralwhite;
+    color: cornflowerblue;
+}
+
+h1, .coral {
+    color: coral;
+    text-align: center;
+}
+
+img{
+    display: block;
+    margin: auto;
+}
+
+.centrar {
+    text-align: center;
+}
+
+.texto-grande {
+    font-size: 50px;
+}
+
+#titulo {
+    color: crimson;
+    text-align: center;
+}
+
+p.centrado{
+    text-align: center;
+    color: cadetblue;
+}

@@ -1,0 +1,113 @@
+h1 {
+    text-align: center;
+}
+
+.rojo {
+    background-color: firebrick;
+}
+
+.rosa {
+    background-color: hotpink;
+}
+
+
+.amarillo {
+    background-color: gold;
+}
+
+.violeta {
+    background-color: blueviolet;
+}
+
+.verde {
+    background-color: lime;
+}
+
+.azul {
+    background-color: turquoise;
+}
+
+.rosa, .rojo, .violeta{
+    color: white;
+}
+
+
+.brRojo {
+    border: 5px solid firebrick;
+}
+
+.brRosa {
+    border: 5px dashed rgb(255, 105, 180);
+}
+
+.brAmarillo {
+    border: 5px double #ffd700;
+}
+
+.brVioleta {
+    border: 5px ridge hsl(271, 76%, 53%);
+}
+
+.brVerde {
+    border: 5px outset lime;
+}
+
+.brAzul {
+    border: 5px dotted turquoise;
+}
+
+.punteado {
+    border-style: dotted;
+    border-width: 10px 5px 3px 2px;
+    border-color: crimson turquoise hotpink gold;
+}
+
+.discontinuo {
+    border-style: dashed;
+}
+
+.solido {
+    border: solid red;
+}
+
+.doble {
+    border: 5px double;
+    border-width: 5px 4px;
+}
+
+.surco {
+    border-width: 5px;
+    border-style: groove;
+}
+
+.cresta {
+    border: 5px ridge;
+}
+
+.recuadro {
+    border: 5px inset;
+}
+
+.outset {
+    border: 5px outset;
+}
+
+.sin-borde {
+    border: none;
+}
+
+.oculto {
+    border: hidden;
+}
+
+.mixto {
+    border-style: dotted solid dashed double;
+}
+
+.bRadius {
+    border-radius: 14px;
+}
+
+.redondeado {
+    border-radius: 15px 0px 10px 0px;
+}
