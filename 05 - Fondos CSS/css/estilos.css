@@ -6,7 +6,7 @@ body{
     background-position: right top;
     background-attachment: fixed;
     background-size: cover; */
-    background: dodgerblue url("/img/fondo.png") no-repeat right top;
+    background: dodgerblue url("https://www.gratistodo.com/wp-content/uploads/2021/12/Fondos-Azules-5-scaled.jpg") no-repeat right top;
     color: cornsilk;
     background-attachment: fixed;
     background-size: cover;
@@ -14,6 +14,7 @@ body{
 h1{
     text-align: center;
     height: 1000px;
+    text-shadow: 2px 2px 5px rgb(152, 152, 152);
 }
 p {
     font-size: larger;
